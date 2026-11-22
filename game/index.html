@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>The Midnight Gallery — a heist game</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #070a12;
+    min-height: 100%;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+  #game {
+    display: block;
+    width: 960px;
+    height: 720px;
+    background: #161d2e;
+    box-shadow: 0 0 60px rgba(20, 184, 166, 0.15);
+  }
+  #caption {
+    color: #5a6b7a;
+    font-size: 13px;
+    margin-top: 10px;
+    text-align: center;
+  }
+  #caption b { color: #8a9aa8; }
+</style>
+</head>
+<body>
+<canvas id="game"></canvas>
+<p id="caption"><b>The Midnight Gallery</b> — WASD / arrows to move, Shift to sneak, Q coin, E jammer, P pause, M mute.</p>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
