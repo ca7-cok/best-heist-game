@@ -1,8 +1,8 @@
 # The Midnight Gallery — a heist game
 
-[![make.fun](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![rank](https://make.fun/ca7-cok/best-heist-game/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
-[![reward](https://make.fun/ca7-cok/best-heist-game/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/ca7-cok/best-heist-game/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/ca7-cok/best-heist-game/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 A top-down stealth heist game that runs offline in a desktop browser from
 static files. You are the thief in a night museum: three rooms, patrolling
